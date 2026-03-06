@@ -9,7 +9,7 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 # 🏢 Organizations
 
 | Organization | Purpose | Details |
-|-------------|--------|--------------------|
+|---------------------|--------|----------|
 | **[zpm-packages](https://github.com/zpm-packages)** | Reusable open-source libraries and plugins | 25+ packages |
 | **[zpm-experiments](https://github.com/zpm-experiments)** | Experimental ideas, projects, prototypes and research | 10+ repos |
 | **[smart-zpm](https://github.com/smart-zpm)** | IoT ecosystem and smart automation platform | - |
