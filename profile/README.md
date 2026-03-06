@@ -10,12 +10,11 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 
 | Organization | Purpose |
 |-------------|--------|
-| **ZPMLabs** | Core company projects and private/internal systems |
-| **zpm-packages** | Reusable open-source libraries and plugins |
-| **zpm-experiments** | Experimental ideas, prototypes and research |
-| **smart-zpm** | IoT ecosystem and smart automation platform |
-| **community-sdks** | Multi-language SDK ecosystem |
-| **i18n-audit** | Tools for detecting missing translations across projects |
+| **[zpm-packages](https://github.com/zpm-packages)** | Reusable open-source libraries and plugins |
+| **[zpm-experiments](https://github.com/zpm-experiments)** | Experimental ideas, prototypes and research |
+| **[smart-zpm](https://github.com/smart-zpm)** | IoT ecosystem and smart automation platform |
+| **[community-sdks](https://github.com/community-sdks)** | Multi-language SDK ecosystem |
+| **[i18n-audit](https://github.com/i18n-audit)** | Tools for detecting missing translations across projects |
 
 ---
 
@@ -40,19 +39,6 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 - Developer tooling
 - CRM / CMS ecosystems
 - High-traffic backend systems
-
----
-
-# 🧠 Major Projects
-
-### i18n Audit
-Multi-language translation scanner supporting multiple frameworks.
-
-### Community SDKs
-Unified SDK ecosystem generated from OpenAPI specs.
-
-### Smart ZPM
-Experimental IoT ecosystem with smart home automation.
 
 ---
 
