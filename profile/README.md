@@ -8,13 +8,13 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 
 # 🏢 Organizations
 
-| Organization | Purpose |
-|-------------|--------|
-| **[zpm-packages](https://github.com/zpm-packages)** | Reusable open-source libraries and plugins |
-| **[zpm-experiments](https://github.com/zpm-experiments)** | Experimental ideas, prototypes and research |
-| **[smart-zpm](https://github.com/smart-zpm)** | IoT ecosystem and smart automation platform |
-| **[community-sdks](https://github.com/community-sdks)** | Multi-language SDK ecosystem |
-| **[i18n-audit](https://github.com/i18n-audit)** | Tools for detecting missing translations across projects |
+| Organization | Purpose | Details |
+|-------------|--------|--------------------|
+| **[zpm-packages](https://github.com/zpm-packages)** | Reusable open-source libraries and plugins | 25+ packages |
+| **[zpm-experiments](https://github.com/zpm-experiments)** | Experimental ideas, projects, prototypes and research | 10+ repos |
+| **[smart-zpm](https://github.com/smart-zpm)** | IoT ecosystem and smart automation platform | - |
+| **[community-sdks](https://github.com/community-sdks)** | Multi-language SDK ecosystem | `C` `C#` `C++` `Go` `Java` `JavaScript` `PHP` `Python` `Rust` `TypeScript` |
+| **[i18n-audit](https://github.com/i18n-audit)** | Tools for detecting missing translations across projects | 50+ stars |
 
 ---
 
