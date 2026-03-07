@@ -118,16 +118,6 @@ Focus:
    PHP SDK
 ```
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasaorasanin\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasaorasanin\&layout=compact\&theme=github_dark)
-
----
-
 # 🔥 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasaorasanin\&theme=github-dark)
