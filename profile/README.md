@@ -1,4 +1,4 @@
-# Sasa Orasanin — Software Engineer (👀![Profile Views](https://komarev.com/ghpvc/?username=sasaorasanin\&color=blue))
+# Sasa Orasanin — Senior Software Engineer (👀![Profile Views](https://komarev.com/ghpvc/?username=sasaorasanin\&color=blue))
 
 Maintainer of multiple open-source ecosystems and developer tools.
 
