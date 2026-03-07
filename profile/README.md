@@ -1,4 +1,4 @@
-# Sasa Orasanin — Software Engineer
+# Sasa Orasanin — Software Engineer (👀![Profile Views](https://komarev.com/ghpvc/?username=sasaorasanin\&color=blue))
 
 Maintainer of multiple open-source ecosystems and developer tools.
 
@@ -121,12 +121,6 @@ Focus:
 # 🔥 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasaorasanin\&theme=github-dark)
-
----
-
-# 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=sasaorasanin\&color=blue)
 
 ---
 
