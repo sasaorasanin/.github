@@ -18,13 +18,13 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 
 # 🏢 Organizations
 
-| Organization                                              | Focus                            | Size                                                       |
-| --------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------- |
-| **[zpm-packages](https://github.com/zpm-packages)**       | reusable open-source packages    | 25+ packages                                               |
-| **[zpm-experiments](https://github.com/zpm-experiments)** | experimental projects & research | 10+ repos                                                  |
-| **[smart-zpm](https://github.com/smart-zpm)**             | IoT automation ecosystem         | upcoming                                                   |
-| **[community-sdks](https://github.com/community-sdks)**   | multi-language SDK ecosystem     | `C` `C#` `C++` `Go` `Java` `JS` `PHP` `Python` `Rust` `TS` |
-| **[i18n-audit](https://github.com/i18n-audit)**           | translation audit tools          | growing                                                    |
+| Organization                                              | Focus                            | Repos | Stars | Languages                                                   |
+| --------------------------------------------------------- | -------------------------------- | ----- | ----- | ----------------------------------------------------------- |
+| **[zpm-packages](https://github.com/zpm-packages)**       | reusable open-source packages    | 13    | ⭐ 57  | `PHP`                                                       |
+| **[zpm-experiments](https://github.com/zpm-experiments)** | experimental projects & research | 17    | ⭐ 0   | `PHP` `Python` `Java` `JS` `TS`                             |
+| **[smart-zpm](https://github.com/smart-zpm)**             | IoT automation ecosystem         | —     | —     | upcoming                                                    |
+| **[community-sdks](https://github.com/community-sdks)**   | multi-language SDK ecosystem     | 30    | ⭐ 1   | `C` `C#` `C++` `Go` `Java` `JS` `PHP` `Python` `Rust` `TS` |
+| **[i18n-audit](https://github.com/i18n-audit)**           | translation audit tools          | 7     | ⭐ 41  | `PHP` `Rust` `JS` `TS`                                      |
 
 ---
 
