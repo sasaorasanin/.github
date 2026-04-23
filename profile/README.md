@@ -41,7 +41,7 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 - **[i18n-audit](https://github.com/i18n-audit)** — Multi-language toolkit for detecting and auditing missing translations in software projects.
 - **[ApiDocsKit](https://github.com/ApiDocsKit)** — A toolkit for generating, hosting, and maintaining API documentation from PHP-first codebases.
 - **[Legacy-Refactoring](https://github.com/Legacy-Refactoring)** — A multi-language reference library of legacy code modernization patterns and refactoring examples.
-- **[Play-Room](https://github.com/Play-Room)** — A sandbox space for experimenting with new ideas, tools, and frameworks before they reach production.
+- **[Play-Room](https://github.com/Play-Room)** — A lightweight, framework-agnostic game hub.
 
 ---
 
