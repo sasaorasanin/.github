@@ -77,34 +77,9 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 
 ---
 
-# 🧩 Ecosystem Structure
-
-```
-                  ZPM Labs
-                     │
-        ┌────────────┼────────────┐
-        │            │            │
-   i18n Audit   Community SDKs   ZPM Packages
-        │            │            │
-   Rust CLI      Multi-language   Laravel tools
-   JS SDK        SDK ecosystem    Dev tooling
-   PHP SDK
-```
-
 # 🔥 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasaorasanin\&theme=github-dark)
-
----
-
-# 💡 Open Source Philosophy
-
-* Clean architecture
-* Typed request & response models
-* Explicit error handling
-* Framework-agnostic core
-* Production-ready structure
-* Clear documentation
 
 ---
 
