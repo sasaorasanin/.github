@@ -45,50 +45,6 @@ Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source proj
 
 ---
 
-# 🌍 Ecosystem
-
-### i18n Audit
-
-Multi-language toolkit for detecting missing translations across projects.
-
-Components:
-
-* Rust CLI
-* JavaScript SDK
-* PHP integration
-* CI integration
-
----
-
-### Community SDKs
-
-Open-source initiative focused on building missing SDKs for APIs.
-
-Available SDK languages:
-
-`PHP` `JavaScript` `TypeScript` `Rust` `Go` `Java` `C#` `C++` `C`
-
-Current API integrations:
-
-* Mailcow
-* GoDaddy
-* Slack
-
----
-
-### ZPM Labs
-
-Collection of developer tools and reusable architecture components.
-
-Focus:
-
-* Laravel packages
-* backend tooling
-* SDK generation
-* developer productivity
-
----
-
 # 🧠 Focus Areas
 
 * System architecture
