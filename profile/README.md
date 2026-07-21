@@ -1,84 +1,81 @@
-# Sasa Orasanin — Senior Software Engineer (👀![Profile Views](https://komarev.com/ghpvc/?username=sasaorasanin\&color=blue))
+# Sasa Orasanin — Senior Full-Stack Software Engineer
 
-Maintainer of multiple open-source ecosystems and developer tools.
+![Profile Views](https://komarev.com/ghpvc/?username=sasaorasanin&color=blue)
 
-Creator of **i18n Audit**, **Community SDKs**, and **ZPM Labs** open-source projects.
+Senior software engineer building production-grade SaaS platforms, backend systems, APIs, developer tooling, and complete web applications.
 
----
-
-# 🚀 Open Source Impact
-
-* Maintainer of multiple **open-source ecosystems**
-* Creator of **multi-language SDK ecosystem**
-* Author of **developer tooling across several languages**
-* 25+ open-source packages
-* Developer tooling for **PHP, Rust, JS, Go ecosystems**
+I work daily with **PHP, Laravel, React, and .NET**, covering backend architecture, API development, frontend applications, integrations, and production infrastructure.
 
 ---
 
-# 🏢 Organizations
+## 🧠 Engineering Focus
 
-| Organization                                                        | Focus                                  | Repos | Stars | Languages                                                   |
-| ------------------------------------------------------------------- | -------------------------------------- | ----- | ----- | ----------------------------------------------------------- |
-| **[zpm-packages](https://github.com/zpm-packages)**                 | reusable open-source packages          | 13    | ⭐ 57  | `PHP`                                                       |
-| **[zpm-experiments](https://github.com/zpm-experiments)**           | experimental projects & research       | 17    | ⭐ 0   | `PHP` `Python` `Java` `JS` `TS`                             |
-| **[community-sdks](https://github.com/community-sdks)**             | multi-language SDK ecosystem           | 30    | ⭐ 1   | `C` `C#` `C++` `Go` `Java` `JS` `PHP` `Python` `Rust` `TS` |
-| **[i18n-audit](https://github.com/i18n-audit)**                     | translation audit tools                | 7     | ⭐ 41  | `PHP` `Rust` `JS` `TS`                                      |
-| **[ApiDocsKit](https://github.com/ApiDocsKit)**                     | API documentation generation toolkit  | 3     | ⭐ 0   | `PHP` `TS`                                                  |
-| **[Legacy-Refactoring](https://github.com/Legacy-Refactoring)**     | legacy code modernization examples     | 59    | ⭐ 0   | `multi-language`                                            |
-| **[Play-Room](https://github.com/Play-Room)**                       | sandbox & playground projects          | 9     | ⭐ 0   | `PHP` `TS`                                                  |
-|                                                                     | **Total**                              |       | ⭐ 99  |                                                             |
+- SaaS and product architecture
+- Backend systems and REST APIs
+- Laravel and .NET applications
+- React frontend development
+- Multi-tenant platforms
+- Developer tooling and SDKs
+- Real-time features and integrations
+- Billing and subscription systems
+- Background jobs and queue processing
+- Production infrastructure
+- Legacy system modernization
 
-### Organization Summaries
+---
+
+## 🛠 Primary Tech Stack
+
+### Backend
+
+`PHP` `Laravel` `.NET` `C#` `ASP.NET Core` `REST APIs`
+
+### Frontend
+
+`React` `JavaScript` `TypeScript` `Vue`
+
+### Data
+
+`PostgreSQL` `MySQL` `MSSQL` `SQLite` `MongoDB` `Redis`
+
+### Infrastructure
+
+`Docker & Kubernetes` `Nginx` `GitHub Actions` `Cloudflare` `AWS` `Azure DevOps`
+
+### Additional Experience
+
+`Symfony` `Livewire` `Filament` `Rust` `Go` `Java` `Python` `Jenkins` `Terraform` ``
+
+---
+
+## 🌍 Open-Source Organizations
+
+I maintain and contribute to several open-source ecosystems focused on reusable packages, SDKs, developer tooling, internationalization, legacy modernization, and framework-agnostic applications.
 
 - **[zpm-packages](https://github.com/zpm-packages)** — A curated collection of reusable, production-ready PHP packages designed for the ZPM ecosystem.
-- **[zpm-experiments](https://github.com/zpm-experiments)** — Experimental research projects and proof-of-concept implementations spanning PHP, Python, Java, and more.
-- **[community-sdks](https://github.com/community-sdks)** — Open-source initiative providing client SDKs for popular APIs across 10+ programming languages.
-- **[i18n-audit](https://github.com/i18n-audit)** — Multi-language toolkit for detecting and auditing missing translations in software projects.
-- **[ApiDocsKit](https://github.com/ApiDocsKit)** — A toolkit for generating, hosting, and maintaining API documentation from PHP-first codebases.
+- **[community-sdks](https://github.com/community-sdks)** — An open-source initiative providing client SDKs for popular APIs across multiple programming languages.
+- **[i18n-audit](https://github.com/i18n-audit)** — A multi-language toolkit for detecting missing, unused, and inconsistent translations in software projects.
 - **[Legacy-Refactoring](https://github.com/Legacy-Refactoring)** — A multi-language reference library of legacy code modernization patterns and refactoring examples.
-- **[Play-Room](https://github.com/Play-Room)** — A lightweight, framework-agnostic game hub.
+- **[Play-Room](https://github.com/Play-Room)** — A lightweight, framework-agnostic game hub with reusable core packages and framework adapters.
 
 ---
 
-# 🧠 Focus Areas
+## 📂 Projects
 
-* System architecture
-* SaaS platforms
-* distributed systems
-* API development
-* developer tooling
-* SDK ecosystems
-* high-traffic backend systems
+- **[ApiDocsKit PHP](https://github.com/sasaorasanin/api-docs-kit-php)** — Developer tooling for structured API documentation in PHP applications.
+- **[Entrix](https://github.com/sasaorasanin/entrix)** — A complete application built around a dedicated business workflow.
+- **[Sportex](https://github.com/sasaorasanin/sportex)** — A sports-focused platform with domain-specific workflows and application logic.
+- **[OpnApp](https://github.com/sasaorasanin/opnapp)** — A complete web application built around a real-world use case.
+- **[Simple Blog PHP CRUD](https://github.com/sasaorasanin/simple-blog-php-crud)** — A structured PHP CRUD application focused on maintainable backend code.
 
 ---
 
-# 🚀 Tech Stack
+## 🔥 Contribution Activity
 
-### Languages
-
-`PHP` `Rust` `Go` `C#` `Java` `JavaScript` `Python`
-
-### Frameworks
-
-`Laravel` `Symfony` `ASP.NET` `Spring` `React` `Vue`
-
-### Databases
-
-`MySQL` `PostgreSQL` `MSSQL` `SQLite` `MongoDB`
-
-### DevOps
-
-`Docker` `Redis` `AWS` `Azure DevOps` `Jenkins` `Nginx`
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasaorasanin&theme=github-dark)
 
 ---
 
-# 🔥 Contribution Activity
+## 📫 Contact
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasaorasanin\&theme=github-dark)
-
----
-
-# 📫 Contact
-
-📧 **[drsasaorasanin@gmail.com](mailto:drsasaorasanin@gmail.com)**
+**Email:** [drsasaorasanin@gmail.com](mailto:drsasaorasanin@gmail.com)
